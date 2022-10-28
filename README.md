@@ -3,8 +3,9 @@
 <h3 align="center">Я начинающий разработчик, изучаю Java и Spring Framework</h3>
 
 ### Примеры моих работ
-- [Курсовая работа по курсу JAVA Basics, Core, Multithreading](https://github.com/Shinjitsu0/ChatProject)
-- [Итоговая дипломная работа по курсу JAVA-разработчик](https://github.com/Shinjitsu0/cloudstorage)
+- Сетевой чат [Курсовая работа по теме JAVA Basics, Core, Multithreading](https://github.com/Shinjitsu0/ChatProject)
+- Сервис перевода денег [Курсовой проект по теме Spring Boot](https://github.com/Shinjitsu0/cardtocardtransferservise)
+- Облачное хранилище [Итоговая дипломная работа по курсу JAVA-разработчик](https://github.com/Shinjitsu0/cloudstorage)
 
 
 ### Сертификаты Нетологии
